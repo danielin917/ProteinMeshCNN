@@ -1,0 +1,36 @@
+#VRML V2.0 utf8
+# original image resolution was: 0x0
+# CreationDate: 2022-11-13T05:44:38Z
+# Creator: UCSF Chimera 1.17_b42408, http://www.cgl.ucsf.edu/chimera/
+# converted from x3d by UCSF Chimera's x3d2vrml
+Group {
+ children [
+  Background {
+   skyColor [0, 0, 0]
+  }
+  Viewpoint {
+   fieldOfView 0.436332
+   position 2.5415 -0.7295 97.861
+  }
+NavigationInfo {
+ type ["EXAMINE" "ANY"]
+   headlight FALSE
+}
+  DirectionalLight {
+   color 1 1 1
+   ambientIntensity 0.2
+   intensity 0
+   direction 0 0 -1
+  }
+  Group {
+   children [
+    Transform {
+     rotation 0 0 1 0
+     translation 0 0 0
+     children [
+     ]
+    }
+   ]
+  }
+ ]
+}

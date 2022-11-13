@@ -1,0 +1,1350 @@
+#VRML V1.0 ascii
+Separator {
+ Separator {
+        Material {
+            ambientColor        0 0.0714286 0.0652005
+            diffuseColor        0 0.286882 0.261868
+            specularColor       0.243549 0.556863 0.607143
+            emissiveColor       0 0 0
+            shininess   0.0663265
+            transparency        0
+        }
+Separator {
+Transform {
+ translation -11.32 -10.77 13.36
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -7.82 -11.27 14.29
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -5.38 -12.64 11.83
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -7.73 -12.27 9.04
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -7.08 -10.19 5.99
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -9.02 -7.03 5.43
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -12.27 -7.25 3.57
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -12.41 -6.50 -0.21
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -13.61 -2.97 0.26
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -10.82 -2.18 2.60
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -8.24 -3.89 0.35
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -9.45 -1.77 -2.50
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -9.24 1.39 -0.43
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -5.61 0.50 0.44
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -4.70 -0.08 -3.20
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -6.40 3.09 -4.36
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -4.60 5.06 -1.68
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -1.17 3.65 -2.68
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -1.71 4.14 -6.43
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -2.87 7.69 -5.99
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 0.61 9.01 -6.11
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 2.15 10.26 -9.33
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 5.33 8.31 -8.59
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 3.62 4.99 -7.97
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 3.64 2.63 -10.94
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 1.74 -0.20 -9.17
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 1.22 -2.49 -6.24
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 3.08 -5.68 -6.66
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 2.05 -7.28 -3.39
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -0.41 -6.40 -0.71
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -0.91 -8.13 2.63
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -3.12 -7.20 5.48
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -3.81 -8.55 8.91
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -6.20 -7.49 11.55
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -4.36 -7.09 14.91
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -7.66 -6.01 16.55
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -10.92 -4.39 15.62
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -9.36 -0.97 15.04
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -5.90 -2.21 14.11
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -4.89 -3.29 10.64
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -1.37 -4.24 9.57
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -0.64 -3.34 5.97
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 2.42 -4.70 4.10
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 2.87 -3.71 0.47
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 5.42 -4.04 -2.22
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 5.13 -1.04 -4.44
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 6.76 -0.19 -7.70
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 7.88 3.45 -7.90
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 9.14 5.49 -10.79
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 12.61 4.27 -11.53
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 13.97 7.75 -12.25
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 13.57 8.81 -8.61
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 16.61 9.64 -6.57
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 17.08 7.86 -3.24
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 15.77 11.02 -1.49
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 12.88 11.23 -3.86
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 11.97 7.59 -3.30
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 12.08 8.09 0.49
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 9.71 11.09 0.14
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 7.42 9.14 -2.12
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 7.20 6.28 0.40
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 6.44 8.77 3.24
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 3.74 10.43 1.21
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 2.21 7.11 0.24
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 2.15 6.00 3.88
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 0.52 9.26 4.88
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -2.08 8.95 2.18
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -2.84 5.35 3.13
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -3.30 6.25 6.79
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -5.70 9.09 5.86
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -7.74 6.77 3.64
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -7.66 3.78 6.04
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -7.38 5.17 9.54
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -7.27 1.66 11.13
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -4.00 0.99 9.30
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation -1.94 1.44 12.42
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 1.05 -0.57 11.19
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 2.22 0.13 7.66
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 5.19 -1.32 5.74
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 5.96 -0.23 2.22
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 8.81 -1.91 0.42
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 9.90 -0.35 -2.77
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 10.60 -2.62 -5.67
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 13.68 -1.47 -7.59
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 13.83 -3.75 -10.33
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 13.67 -7.18 -10.78
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 11.59 -8.09 -13.69
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 12.09 -11.65 -13.01
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+Separator {
+Transform {
+ translation 10.04 -12.92 -10.15
+ scaleFactor 1.50 1.50 1.50
+ }
+Sphere { }
+}
+}
+ Separator {
+        Material {
+            ambientColor        0 0.0714286 0.0652005
+            diffuseColor        0 0.286882 0.261868
+            specularColor       0.243549 0.556863 0.607143
+            emissiveColor       0 0 0
+            shininess   0.0663265
+            transparency        0
+        }
+Separator {
+Transform {
+ translation -9.57 -11.02 13.83
+ scaleFactor 1.50 1.83 1.50
+ rotation -0.930 0.0 3.502 -1.709
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -6.60 -11.96 13.06
+ scaleFactor 1.50 1.86 1.50
+ rotation 2.461 0.0 2.437 -1.947
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -6.56 -12.46 10.44
+ scaleFactor 1.50 1.83 1.50
+ rotation 2.790 0.0 -2.346 -1.470
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -7.41 -11.23 7.52
+ scaleFactor 1.50 1.87 1.50
+ rotation 3.047 0.0 0.644 -0.982
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -8.05 -8.61 5.71
+ scaleFactor 1.50 1.88 1.50
+ rotation 0.565 0.0 -1.935 -0.567
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -10.64 -7.14 4.50
+ scaleFactor 1.50 1.87 1.50
+ rotation 1.857 0.0 -3.250 -1.631
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -12.34 -6.87 1.68
+ scaleFactor 1.50 1.93 1.50
+ rotation 3.783 0.0 -0.145 -1.374
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -13.01 -4.73 0.03
+ scaleFactor 1.50 1.88 1.50
+ rotation -0.474 0.0 -1.197 -0.350
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -12.22 -2.58 1.43
+ scaleFactor 1.50 1.86 1.50
+ rotation -2.340 0.0 2.793 -1.358
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -9.53 -3.04 1.48
+ scaleFactor 1.50 1.91 1.50
+ rotation 2.249 0.0 2.580 -2.032
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -8.85 -2.83 -1.08
+ scaleFactor 1.50 1.88 1.50
+ rotation 2.859 0.0 -1.213 -0.971
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -9.35 -0.19 -1.47
+ scaleFactor 1.50 1.89 1.50
+ rotation -2.073 0.0 0.208 -0.583
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -7.43 0.94 0.01
+ scaleFactor 1.50 1.92 1.50
+ rotation -0.876 0.0 3.630 -1.806
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -5.16 0.21 -1.38
+ scaleFactor 1.50 1.90 1.50
+ rotation 3.643 0.0 0.917 -1.724
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -5.55 1.50 -3.78
+ scaleFactor 1.50 1.89 1.50
+ rotation 1.165 0.0 -1.704 -0.577
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -5.50 4.07 -3.02
+ scaleFactor 1.50 1.89 1.50
+ rotation -2.681 0.0 1.798 -1.023
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -2.89 4.35 -2.18
+ scaleFactor 1.50 1.92 1.50
+ rotation 0.999 0.0 3.434 -1.946
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -1.44 3.89 -4.56
+ scaleFactor 1.50 1.91 1.50
+ rotation 3.752 0.0 -0.537 -1.443
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -2.29 5.91 -6.21
+ scaleFactor 1.50 1.88 1.50
+ rotation -0.446 0.0 -1.163 -0.338
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -1.13 8.35 -6.05
+ scaleFactor 1.50 1.86 1.50
+ rotation 0.123 0.0 3.482 -1.208
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 1.38 9.63 -7.72
+ scaleFactor 1.50 1.89 1.50
+ rotation 3.215 0.0 1.534 -1.232
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 3.74 9.28 -8.96
+ scaleFactor 1.50 1.90 1.50
+ rotation -0.732 0.0 3.187 -2.109
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 4.48 6.65 -8.28
+ scaleFactor 1.50 1.90 1.50
+ rotation -0.621 0.0 -1.716 -2.639
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 3.63 3.81 -9.46
+ scaleFactor 1.50 1.89 1.50
+ rotation 2.968 0.0 0.022 -2.241
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 2.69 1.22 -10.06
+ scaleFactor 1.50 1.92 1.50
+ rotation -1.767 0.0 -1.902 -2.400
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 1.48 -1.35 -7.71
+ scaleFactor 1.50 1.88 1.50
+ rotation -2.931 0.0 -0.523 -2.227
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 2.15 -4.09 -6.45
+ scaleFactor 1.50 1.86 1.50
+ rotation 0.417 0.0 1.863 -2.602
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 2.56 -6.48 -5.02
+ scaleFactor 1.50 1.89 1.50
+ rotation -3.273 0.0 -1.029 -2.007
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 0.82 -6.84 -2.05
+ scaleFactor 1.50 1.87 1.50
+ rotation -2.677 0.0 -2.461 -1.332
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -0.66 -7.26 0.96
+ scaleFactor 1.50 1.90 1.50
+ rotation -3.339 0.0 -0.498 -2.045
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -2.02 -7.66 4.05
+ scaleFactor 1.50 1.86 1.50
+ rotation -2.849 0.0 -2.211 -1.318
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -3.47 -7.87 7.19
+ scaleFactor 1.50 1.87 1.50
+ rotation -3.428 0.0 -0.692 -1.940
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -5.00 -8.02 10.23
+ scaleFactor 1.50 1.86 1.50
+ rotation -2.645 0.0 -2.382 -1.281
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -5.28 -7.29 13.23
+ scaleFactor 1.50 1.92 1.50
+ rotation -3.359 0.0 1.834 -1.468
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -6.01 -6.55 15.73
+ scaleFactor 1.50 1.92 1.50
+ rotation -1.635 0.0 -3.294 -1.286
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -9.29 -5.20 16.09
+ scaleFactor 1.50 1.88 1.50
+ rotation 0.920 0.0 -3.265 -1.125
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -10.14 -2.68 15.33
+ scaleFactor 1.50 1.90 1.50
+ rotation 0.588 0.0 1.563 -0.454
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -7.63 -1.59 14.57
+ scaleFactor 1.50 1.89 1.50
+ rotation 0.930 0.0 3.457 -1.904
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -5.39 -2.75 12.37
+ scaleFactor 1.50 1.88 1.50
+ rotation 3.465 0.0 1.010 -1.861
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -3.13 -3.76 10.10
+ scaleFactor 1.50 1.90 1.50
+ rotation 1.076 0.0 3.521 -1.824
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -1.00 -3.79 7.77
+ scaleFactor 1.50 1.89 1.50
+ rotation 3.599 0.0 0.732 -1.330
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 0.89 -4.02 5.03
+ scaleFactor 1.50 1.92 1.50
+ rotation 1.869 0.0 3.055 -1.934
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 2.65 -4.20 2.29
+ scaleFactor 1.50 1.89 1.50
+ rotation 3.623 0.0 0.456 -1.305
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 4.15 -3.87 -0.87
+ scaleFactor 1.50 1.86 1.50
+ rotation 2.695 0.0 2.544 -1.660
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 5.27 -2.54 -3.33
+ scaleFactor 1.50 1.87 1.50
+ rotation 2.217 0.0 -0.287 -0.641
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 5.95 -0.62 -6.07
+ scaleFactor 1.50 1.88 1.50
+ rotation 3.266 0.0 1.631 -1.340
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 7.32 1.63 -7.80
+ scaleFactor 1.50 1.90 1.50
+ rotation 0.197 0.0 1.113 -0.301
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 8.51 4.47 -9.35
+ scaleFactor 1.50 1.88 1.50
+ rotation 2.895 0.0 1.270 -0.998
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 10.88 4.88 -11.16
+ scaleFactor 1.50 1.88 1.50
+ rotation 0.738 0.0 3.468 -1.903
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 13.29 6.01 -11.89
+ scaleFactor 1.50 1.90 1.50
+ rotation 0.714 0.0 1.353 -0.414
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 13.77 8.28 -10.43
+ scaleFactor 1.50 1.90 1.50
+ rotation -3.634 0.0 -0.399 -1.288
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 15.09 9.23 -7.59
+ scaleFactor 1.50 1.88 1.50
+ rotation -2.039 0.0 3.041 -1.347
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 16.85 8.75 -4.91
+ scaleFactor 1.50 1.91 1.50
+ rotation -3.335 0.0 0.476 -2.057
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 16.43 9.44 -2.36
+ scaleFactor 1.50 1.92 1.50
+ rotation -1.752 0.0 -1.316 -0.607
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 14.32 11.12 -2.67
+ scaleFactor 1.50 1.87 1.50
+ rotation 2.374 0.0 -2.890 -1.513
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 12.42 9.41 -3.58
+ scaleFactor 1.50 1.90 1.50
+ rotation -0.562 0.0 -0.910 -2.856
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 12.03 7.84 -1.40
+ scaleFactor 1.50 1.91 1.50
+ rotation -3.792 0.0 0.115 -1.442
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 10.90 9.59 0.32
+ scaleFactor 1.50 1.92 1.50
+ rotation 0.353 0.0 -2.369 -0.674
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 8.57 10.11 -0.99
+ scaleFactor 1.50 1.88 1.50
+ rotation 2.262 0.0 -2.291 -2.115
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 7.31 7.71 -0.86
+ scaleFactor 1.50 1.91 1.50
+ rotation -2.520 0.0 -0.225 -2.418
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 6.82 7.52 1.82
+ scaleFactor 1.50 1.93 1.50
+ rotation -2.844 0.0 -0.760 -0.869
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 5.09 9.60 2.23
+ scaleFactor 1.50 1.88 1.50
+ rotation 2.030 0.0 -2.701 -1.114
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 2.98 8.77 0.72
+ scaleFactor 1.50 1.89 1.50
+ rotation 0.975 0.0 -1.522 -2.643
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 2.18 6.55 2.06
+ scaleFactor 1.50 1.90 1.50
+ rotation -3.644 0.0 -0.062 -1.864
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 1.33 7.63 4.38
+ scaleFactor 1.50 1.89 1.50
+ rotation -1.003 0.0 -1.637 -0.533
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -0.78 9.11 3.53
+ scaleFactor 1.50 1.88 1.50
+ rotation 2.701 0.0 -2.596 -1.652
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -2.46 7.15 2.66
+ scaleFactor 1.50 1.90 1.50
+ rotation -0.946 0.0 -0.757 -2.817
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -3.07 5.80 4.96
+ scaleFactor 1.50 1.90 1.50
+ rotation -3.656 0.0 -0.466 -1.331
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -4.50 7.67 6.32
+ scaleFactor 1.50 1.91 1.50
+ rotation 0.924 0.0 -2.396 -0.735
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -6.72 7.93 4.75
+ scaleFactor 1.50 1.90 1.50
+ rotation 2.224 0.0 -2.036 -2.226
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -7.70 5.28 4.84
+ scaleFactor 1.50 1.92 1.50
+ rotation -2.408 0.0 0.080 -2.463
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -7.52 4.48 7.79
+ scaleFactor 1.50 1.88 1.50
+ rotation -3.490 0.0 0.280 -1.194
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -7.32 3.41 10.33
+ scaleFactor 1.50 1.93 1.50
+ rotation -1.594 0.0 0.104 -2.714
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -5.63 1.33 10.21
+ scaleFactor 1.50 1.91 1.50
+ rotation 1.829 0.0 3.276 -1.747
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -2.97 1.21 10.86
+ scaleFactor 1.50 1.88 1.50
+ rotation -3.119 0.0 2.056 -1.452
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation -0.45 0.44 11.80
+ scaleFactor 1.50 1.90 1.50
+ rotation 1.231 0.0 2.985 -2.126
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 1.63 -0.22 9.42
+ scaleFactor 1.50 1.89 1.50
+ rotation 3.529 0.0 1.175 -1.385
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 3.71 -0.59 6.70
+ scaleFactor 1.50 1.91 1.50
+ rotation 1.923 0.0 2.968 -1.962
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 5.58 -0.78 3.98
+ scaleFactor 1.50 1.88 1.50
+ rotation 3.513 0.0 0.772 -1.275
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 7.39 -1.07 1.32
+ scaleFactor 1.50 1.88 1.50
+ rotation 1.807 0.0 2.850 -2.033
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 9.36 -1.13 -1.18
+ scaleFactor 1.50 1.86 1.50
+ rotation 3.186 0.0 1.091 -1.137
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 10.25 -1.49 -4.22
+ scaleFactor 1.50 1.88 1.50
+ rotation 2.900 0.0 0.701 -2.223
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 12.14 -2.05 -6.63
+ scaleFactor 1.50 1.90 1.50
+ rotation 1.916 0.0 3.077 -1.262
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 13.75 -2.61 -8.96
+ scaleFactor 1.50 1.78 1.50
+ rotation 2.740 0.0 0.148 -2.264
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 13.75 -5.47 -10.55
+ scaleFactor 1.50 1.73 1.50
+ rotation 0.455 0.0 -0.156 -3.002
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 12.63 -7.64 -12.23
+ scaleFactor 1.50 1.84 1.50
+ rotation 2.908 0.0 -2.081 -1.819
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 11.84 -9.87 -13.35
+ scaleFactor 1.50 1.83 1.50
+ rotation -0.678 0.0 0.497 -2.910
+ }
+Cylinder { }
+}
+Separator {
+Transform {
+ translation 11.06 -12.28 -11.58
+ scaleFactor 1.50 1.87 1.50
+ rotation -2.861 0.0 -2.048 -1.916
+ }
+Cylinder { }
+}
+}
+}
